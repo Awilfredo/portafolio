@@ -29,6 +29,7 @@ header .logo {
   font-size: 2em;
 }
 
+
 header ul {
   position: relative;
   display: flex;
@@ -311,7 +312,7 @@ header ul li a:hover {
   }
   .foto {
     width: 30%;
-    position: absolute;
+    position: relative;
     bottom: 20px;
     right: 20px;
   }
