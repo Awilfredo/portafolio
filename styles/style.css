@@ -126,7 +126,7 @@ header ul li a:hover {
 
 .habilidades-texto,
 .portafolio-texto {
-  width: 60%;
+  width: 80%;
 }
 
 #habilidades .habilidades-texto h3,
@@ -428,7 +428,8 @@ header ul li a:hover {
     font-size: 1.75em;
   }
   #habilidades .habilidades-texto p,
-  #portafolio .portafolio-texto p {
+  #portafolio .portafolio-texto p,
+  .portafolio-proyectos-card p {
     font-size: 1em;
   }
 
